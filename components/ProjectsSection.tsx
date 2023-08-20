@@ -24,7 +24,7 @@ const projects = [
     name: "Scatext",
     description:
       "Scatext is a sophisticated Android text recognition application, leveraging the power of Google's cutting-edge text recognition library. With Scatext, you can effortlessly extract and decipher text from images.",
-    image: "/scatext.jpg",
+    image: "/Scatext.jpg",
     github: "https://github.com/cosmic007/Scatext-Text-Recognition-App",
     link: "https://drive.google.com/file/d/1HaSwx_sy1iy4oCrMCbNjixkDxf0EpulV/view?usp=drive_link",
   },
